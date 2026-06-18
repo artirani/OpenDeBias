@@ -1,47 +1,43 @@
-# 🚀 **OpenDebias - Loading... Please Wait!**
+# 🚀 **OpenDebias - The Journey Begins!**
 
 ---
 
-⏳ **Hang tight, we're preparing something amazing for you...**  
-We’re getting everything ready to provide you with a seamless experience. Please be patient—great things are coming your way! ✨
+⏳ **We’re shifting gears—The OpenBiasBench Dataset is officially LIVE!** The foundation is set, and we are actively preparing the rest of the ecosystem. Thank you for your incredible patience as we roll out the next phases. Great things are officially arriving! ✨
 
 ---
 
 ## 📦 *What’s Happening Right Now?*
 
-We’re setting the stage for you to enjoy OpenDebias at its best. Here’s what we’re working on:
+We’re making rapid progress to bring you the full OpenDebias suite. Here’s where we stand:
 
-- 🗂️ **Preparing the Platform**...  
-  Everything is being set up to ensure smooth performance and top-notch user experience.
-
-- 🔄 **Syncing Data**...  
-  We're connecting all the dots so you can jump right in!
-
+- 🎉 **Dataset Available Now!** Our core benchmark dataset, **OpenBiasBench**, has officially dropped. You can access it immediately to start exploring.
+- 🔄 **Preparing the Codebase**...  
+  We are cleaning up our code repositories, scripts, and evaluation pipelines to ensure seamless replication and usage.
 - 🛠️ **Final Touches**...  
-  Polishing things up before we roll out all the awesome features for you.
+  Polishing the implementation details before we roll out the complete toolset.
 
 ---
 
 ### **Current Status:**
 
-> **⏳ Loading... Uploads coming soon!**
+> **🚀 Dataset is LIVE! Codebase and uploads coming soon!**
 
-- 🌐 **Connecting Servers**... [#####-----] 60%
-- 🛠️ **Finalizing Features**... [####------] 50%
-- 🔒 **Securing Connections**... [#####-----] 55%
-
----
-
-## 🌟 *While You Wait...*
-
-- Explore our [page](https://sites.google.com/view/Open-Debias25) to get familiar.  
-- Check out our [research paper](https://arxiv.org/abs/2509.23805).  
-- Get ready to dive into a more intuitive and debiased experience!
+- 📊 **Dataset Release (OpenBiasBench)**... [##########] 100% (Completed!)
+- 💻 **Codebase & Scripts Prep**... [#######---] 70%
+- 🌐 **Server & Platform Integration**... [######----] 60%
 
 ---
 
-### **Thank You for Your Patience!**
+## 🌟 *Explore OpenDebias*
 
-We know you're excited, and we're working fast to bring you the best! Stay tuned—**OpenDebias** is almost ready for you!
+- 📊 **Get the Dataset:** Dive straight into the [OpenBiasBench Dataset on Hugging Face](https://huggingface.co/datasets/artianand/OpenBiasBench).  
+- 📖 **Read the Research:** Check out our [research paper](https://arxiv.org/abs/2509.23805) to understand the methodology behind the bench.  
+- 🌐 **Visit Our Homepage:** Explore our [official page](https://sites.google.com/view/Open-Debias25) to stay updated on the project.  
 
-> **✨ Uploads and Features Coming Soon... Stay Tuned!** 🔜
+---
+
+### **Thank You for Your Support!**
+
+The first major piece of the puzzle is in your hands, and we are working around the clock to release the accompanying code. Stay tuned—**OpenDebias** is coming to life!
+
+> **✨ OpenBiasBench is live. Scripts and evaluation tools coming soon!** 🔜
